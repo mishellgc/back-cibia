@@ -1,0 +1,13 @@
+#pip install watchdog
+#pip install flask-cors
+#pip install Flask python-dotenv openai
+#pip install Flask
+#pip install python-dotenv
+#pip install openai
+#pip install flask-cors
+#pip install Flask python-dotenv openai flask-cors
+Flask
+python-dotenv
+openai
+flask-cors
+
